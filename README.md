@@ -3,9 +3,9 @@
 
 ## 📌 Descripción
 
-- **parte1/**: Contiene la parte 1 de la practica 2, su ontenido esta en la carpeta `practica1`. 
+- **parte1/**: Contiene la parte 1 de la practica 2, su ontenido esta en la carpeta `parte1`. 
 
-- **parte2/**: Contiene la parte 2 de la practica 2, su ontenido esta en la carpeta `unl-music - copia`.
+- **parte2/**: Contiene la parte 2 de la practica 2, su ontenido esta en la carpeta `parte2`.
 
 ---
 
